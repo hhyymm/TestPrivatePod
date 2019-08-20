@@ -1,0 +1,29 @@
+# TestPodHym
+
+[![CI Status](https://img.shields.io/travis/hhyymm/TestPodHym.svg?style=flat)](https://travis-ci.org/hhyymm/TestPodHym)
+[![Version](https://img.shields.io/cocoapods/v/TestPodHym.svg?style=flat)](https://cocoapods.org/pods/TestPodHym)
+[![License](https://img.shields.io/cocoapods/l/TestPodHym.svg?style=flat)](https://cocoapods.org/pods/TestPodHym)
+[![Platform](https://img.shields.io/cocoapods/p/TestPodHym.svg?style=flat)](https://cocoapods.org/pods/TestPodHym)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+TestPodHym is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'TestPodHym'
+```
+
+## Author
+
+hhyymm, 1347829522@qq.com
+
+## License
+
+TestPodHym is available under the MIT license. See the LICENSE file for more info.
