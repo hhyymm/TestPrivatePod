@@ -1,0 +1,6 @@
+framework module TestPodHym {
+  umbrella header "TestPodHym-umbrella.h"
+
+  export *
+  module * { export * }
+}
